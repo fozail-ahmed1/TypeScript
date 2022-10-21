@@ -6,7 +6,7 @@
 - Add a new project with a title, description and the number of people working on the project.
 - When the project is finished, you can drag and drop it over to the finished part.
 
-- This repository also contains the practice code on fundamentals of TypeScript.
+- This repository also contains the hands on practice code on fundamentals of TypeScript.
 
 ## Preview
 
